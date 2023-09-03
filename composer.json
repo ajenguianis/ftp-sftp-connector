@@ -22,9 +22,6 @@
   },
   "require": {
     "php": "^7.4 || ^8.1",
-    "ext-curl": "*",
-    "ext-json": "*",
-    "monolog/monolog": "^1.0",
     "nicolab/php-ftp-client": "^2.0",
     "phpseclib/phpseclib": "^3.0"
   }
