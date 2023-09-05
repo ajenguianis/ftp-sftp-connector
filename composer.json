@@ -23,6 +23,6 @@
   "require": {
     "php": ">=8.0",
     "nicolab/php-ftp-client": "^2.0",
-    "phpseclib/phpseclib": "^3.0"
+    "phpseclib/phpseclib": "^2.0"
   }
 }
