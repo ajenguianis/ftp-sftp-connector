@@ -1,6 +1,6 @@
 # PHP FTP and SFTP Client Library
 
-[![License](https://img.shields.io/github/license/yourusername/yourrepository)](https://github.com/ajenguianis/ftp-sftp-connector/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/yourusername/yourrepository)](https://github.com/ajenguianis/ftp-sftp-connector/blob/develop/LICENSE)
 [![Latest Release](https://img.shields.io/github/v/release/yourusername/yourrepository)](https://github.com/ajenguianis/ftp-sftp-connector/releases/latest)
 [![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepository/CI%20Build)](https://github.com/ajenguianis/ftp-sftp-connector/actions)
 
