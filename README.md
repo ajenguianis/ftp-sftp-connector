@@ -1,8 +1,8 @@
 # PHP FTP and SFTP Client Library
 
-[![License](https://img.shields.io/github/license/yourusername/yourrepository)](https://github.com/ajenguianis/ftp-sftp-connector/blob/develop/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/yourusername/yourrepository)](https://github.com/ajenguianis/ftp-sftp-connector/releases/latest)
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepository/CI%20Build)](https://github.com/ajenguianis/ftp-sftp-connector/actions)
+[![License](https://img.shields.io/github/license/ajenguianis/ftp-sftp-connector)](https://github.com/ajenguianis/ftp-sftp-connector/blob/develop/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/ajenguianis/ftp-sftp-connector)](https://github.com/ajenguianis/ftp-sftp-connector/releases/latest)
+[![Build Status](https://img.shields.io/github/workflow/status/ajenguianis/ftp-sftp-connector/CI%20Build)](https://github.com/ajenguianis/ftp-sftp-connector/actions)
 
 Welcome to the PHP FTP and SFTP Client Library! This library simplifies FTP and SFTP protocol operations, making it easy to manage remote files and establish distant server connections. Whether you need basic file transfers or more advanced functionality, this library has you covered.
 
