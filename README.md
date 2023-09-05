@@ -29,3 +29,29 @@ To get started with our library, you can install it via Composer:
 
 Connect to ftp or SFTP server:
 
+    $connector= new \AA\ServerConector\Connector();
+    //set protocol ftp or sftp
+    $connector->setProtocol('ftp');
+    $connector->setUp($host, $login, $password, $port);
+    $connector->connect();
+
+### Download file
+    /**
+     * @param $localFile
+     * @param $remoteFile
+     * @param $mode
+     * @return bool|string
+     */
+     $connector->downloadFile($localFile,$remoteFil, $mode);
+     
+### Get files list
+
+     $connector->nlist($directory,$recursive);
+     
+### Get files by extension
+
+     $connector->getByExtension($directory,$recursive,$extension);
+     
+### Archive file
+
+     $connector->archive($fileFrom, $fileTo);    
