@@ -13,7 +13,7 @@
     "psr-4": {
       "AA\\ServerConector\\": "src"
     },
-    "classmap": ["serverconnector.php", "src/"]
+    "classmap": []
   },
   "autoload-dev": {
     "psr-4": {
