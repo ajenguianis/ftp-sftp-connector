@@ -6,8 +6,7 @@
 ![Latest Unstable Version](https://img.shields.io/packagist/vpre/ajenguianis/ftp-sftp-connector)
 ![PHP Version](https://img.shields.io/packagist/php-v/ajenguianis/ftp-sftp-connector)
 
-
-Welcome to the PHP FTP and SFTP Client Library! This library simplifies FTP and SFTP protocol operations, making it easy to manage remote files and establish distant server connections. Whether you need basic file transfers or more advanced functionality, this library has you covered.
+Welcome to the PHP FTP and SFTP Client Connector Library! This library simplifies FTP and SFTP protocol operations, making it easy to manage remote files and establish distant server connections. Whether you need basic file transfers or more advanced functionality, this library has you covered.
 
 ## Key Features
 
@@ -20,9 +19,13 @@ Welcome to the PHP FTP and SFTP Client Library! This library simplifies FTP and 
 
 ## Getting Started
 
-### Installation
-
 To get started with our library, you can install it via Composer:
 
-```bash
-composer require ajenguianis/ftp-sftp-connector
+         composer require ajenguianis/ftp-sftp-connector
+
+## Usage
+
+### Connexion
+
+Connect to ftp or SFTP server:
+
